@@ -23,25 +23,25 @@ h2 {
   margin-left: auto;
 }
 section {
-  margin-left: 10px;
+  text-align: justify;
   width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
   color: black;
+  float: inherit;
+
 }
 
 .div{
 margin-top: 30px;
-margin-left: : 10px;
-
 }
-
-
 
 
 
 #bbb{
   background-color: #53a2a1;
   font-family: Helvetica;
-  position: absolute;
 
 
   
@@ -52,19 +52,18 @@ margin-left: : 10px;
   font-family: Helvetica;
  
 
-	
+  
 }
 #ddd{
   background-color: #5e8eb0;
   font-family: Helvetica;
 
-	
+  
 }
 
 
 .row {
   width: 100%;
-
 
 
 
